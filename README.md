@@ -1,5 +1,6 @@
 # **JvMacro: Arduino Macro Keypad Shield** #
 The poor man's macro keypad is here. For 20 bucks or less, you can get into the world of media keys and shortcuts. It won't have fancy Cherry switches, but the cheap clear B3F button caps look way more professional than glued labels anyway.
+
 ![header](header.jpg)
 
 Features
@@ -19,6 +20,7 @@ Bill of Materials
 |Male headers 0.1" pitch|**32**|400|1|Aliexpress|
 |Arduino UNO 16U2 with case|**1**|1|7|Aliexpress|
 |**Total**|||**21**||
+
 The following cost are current shipped prices. As you see, it gets rapidly cheaper as you make more than one.
 
 PCB Assembly
