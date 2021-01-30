@@ -16,7 +16,7 @@ Bill of Materials
 |Part|Needed|Pieces|Price($)|Supplier|
 |-|-|-|-|-|
 |JvMacro PCB|**1**|5|8|JLCPCB|
-|12x12mm B3F buttons with caps|**12**|25|5|Aliexpress|
+|B3F tactile buttons with caps|**12**|25|5|Aliexpress|
 |Male headers 0.1" pitch|**32**|400|1|Aliexpress|
 |Arduino UNO 16U2 with case|**1**|1|7|Aliexpress|
 |**Total**|||**21**||
